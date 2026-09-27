@@ -1,0 +1,6 @@
+{
+  "name": "MissionCore AI",
+  "description": "Modern command-center mission management system with AI planning, task tracking, team coordination, geospatial field operations, and secure operations control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
